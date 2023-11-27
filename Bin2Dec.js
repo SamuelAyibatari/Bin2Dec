@@ -6,4 +6,4 @@ function binToDec(binary) {
   return parseInt(binary, 2);
 }
 
-console.log(binToDec(1011111101));
+console.log(binToDec());
